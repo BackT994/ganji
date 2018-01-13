@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default">
+        <processorPath useClasspath="false">
+          <entry name="E:/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72" />
+        </processorPath>
+      </profile>
+      <profile name="tomcat7" enabled="true">
+        <processorPath useClasspath="false">
+          <entry name="E:/apache-tomcat-7.0.72-windows-x64/apache-tomcat-7.0.72" />
+        </processorPath>
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="PreferredVcsStorage">
+    <preferredVcsName>ApexVCS</preferredVcsName>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.6 (ganji)" project-jdk-type="Python SDK" />
+</project>
